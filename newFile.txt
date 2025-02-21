@@ -1,1 +1,1 @@
-this is new file
+The changes have been made for the DevOps Lab.
