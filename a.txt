@@ -1,4 +1,2 @@
-
-this is local file created by rithend 
-
-i now forked this repo and made changes here
+This is the file in which i am forking the repository.
+Please accept the merge request.
